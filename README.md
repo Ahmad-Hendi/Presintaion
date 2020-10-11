@@ -23,7 +23,7 @@ ___
 ___
 ___
 
-# 5G 🕸
+# - 5G 🕸
 
 ![5g](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/2-2.png)
 
@@ -40,7 +40,7 @@ ___
 ___
 ___
 
-### The difference between 1G, 2G, 3G, 4G, 5G
+### The difference between _[1G]()_ , _[2G]()_ , _[3G]()_ , _[4G]()_ , _[5G]()_ ,
 
 ![instagram](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/3.jpeg)
 
