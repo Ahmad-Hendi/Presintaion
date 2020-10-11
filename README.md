@@ -92,12 +92,13 @@ ___
 ### What is latency 
 from a general point of view is a time delay between the cause and the effect of some physical change in the system being observed...
 [latency ](https://en.wikipedia.org/wiki/Latency_(engineering)) for more information.
-__example for latency  in 4G__
-####
 
-![instagram](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/6.png)
+__Example for the latency in 4G__
 
 
+![latency4G](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/6.png)
+
+
 ___
 ___
 ___
@@ -110,7 +111,10 @@ ___
 ___
 ___
 
-![instagram](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/7.png)
+__Example for the latency in 5G__
+The difference is massive
+
+![latency5G](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/7.png)
 
 
 ___
