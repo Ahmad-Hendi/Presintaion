@@ -40,9 +40,9 @@ ___
 ___
 ___
 
-### The difference between _[1G]()_ , _[2G]()_ , _[3G]()_ , _[4G]()_ , _[5G]()_ ,
+### Comparison _[1G]()_ , _[2G]()_ , _[3G]()_ , _[4G]()_ , _[5G]()_ 
 
-![instagram](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/3.jpeg)
+![1g,2g,3g,4g,5g](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/3.jpeg)
 
 
 ___
@@ -56,8 +56,9 @@ ___
 ___
 ___
 ___
+### The difference speed between 🏎
 
-![instagram](https://github.com/Ahmad-Hendi/Presintaion/blob/main/Images/4-4.png)
+![speed](https://github.com/Ahmad-Hendi/Presintaion/blob/main/Images/4-4.png)
 
 ___
 ___
