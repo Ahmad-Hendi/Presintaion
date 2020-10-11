@@ -56,7 +56,7 @@ ___
 ___
 ___
 ___
-### The difference speed between 🏎
+### The difference in speeds between  3G , 4G & 5G 🏎
 
 ![speed](https://github.com/Ahmad-Hendi/Presintaion/blob/main/Images/4-4.png)
 
@@ -72,7 +72,9 @@ ___
 ___
 ___
 
-![instagram](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/5.jpg)
+### IOT 
+
+![iot](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/5.jpg)
 
 
 ___
@@ -86,6 +88,12 @@ ___
 ___
 ___
 ___
+
+### What is latency 
+from a general point of view is a time delay between the cause and the effect of some physical change in the system being observed...
+[latency ](https://en.wikipedia.org/wiki/Latency_(engineering)) for more information.
+__example for latency  in 4G__
+####
 
 ![instagram](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/6.png)
 
