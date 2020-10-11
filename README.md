@@ -200,7 +200,8 @@ ___
 ___
 
 ### Thanks 😊
-Dont forget to follow me on Instagram
+Dont forget to follow me on Instagram 😂 🤦🏻
+
 
 ![selfcars](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/10.png)
 
