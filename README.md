@@ -23,7 +23,7 @@ ___
 ___
 ___
 
-# - 5G 🕸
+# * 5G 🕸
 
 ![5g](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/2-2.png)
 
@@ -160,6 +160,9 @@ ___
 ### Self-driving car 🚗
 
 is a vehicle that is capable of sensing its environment and moving safely with little or no
+
+[click here for more information about Self-driving car](https://en.wikipedia.org/wiki/Self-driving_car)
+
 
 ![selfcars](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/9.jpeg)
 
