@@ -136,7 +136,12 @@ ___
 ___
 ___
 
-![instagram](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/8.png)
+### Expanding telemedicine 📱 👨‍⚕️ 👩‍⚕️
+For people in rural areas, with doctors located several miles away, traveling while ill can be challenging and time-consuming.
+[click here for more information](https://www.business.att.com/learn/updates/how-5g-will-transform-the-healthcare-industry.html)
+
+
+![telemedicine](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/8.png)
 
 
 ___
@@ -151,7 +156,7 @@ ___
 ___
 ___
 
-![instagram](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/9.jpeg)
+![selfcars](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/9.jpeg)
 
 
 
