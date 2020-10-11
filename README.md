@@ -75,6 +75,7 @@ ___
 ### IOT 
 
 ![iot](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/5.jpg)
+[click here for more information](https://en.wikipedia.org/wiki/Internet_of_things)
 
 
 ___
@@ -112,7 +113,8 @@ ___
 ___
 
 __Example for the latency in 5G__
-The difference is massive
+
+The difference is massive 🚀
 
 ![latency5G](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/7.png)
 
