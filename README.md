@@ -168,5 +168,44 @@ is a vehicle that is capable of sensing its environment and moving safely with l
 
 
 
+___
+___
+___
+___
+___
+___
+___
+___
+___
+___
+___
+
+### Infographic: Focus on 5G
+
+[Quelle amélioration peut-on attendre de cette nouvelle connectivité?
+ VIDEO](https://www.youtube.com/watch?v=UMSdgGn4u_M&feature=emb_logo)
+ 
+ 
+ 
+___
+___
+___
+___
+___
+___
+___
+___
+___
+___
+___
+
+### Thanks 😊
+
+![selfcars](https://raw.githubusercontent.com/Ahmad-Hendi/Presintaion/main/Images/9.jpeg)
+
+
+
+
+
 
 
